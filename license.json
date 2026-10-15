@@ -1,5 +1,5 @@
 {
-  "default": "unlimited",
+  "default": "2020-01-01",
   "devices": {
     "b2feaca39caa418b": "unlimited"
   }
